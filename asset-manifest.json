@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/http//dinesh671.github.io/portfolio-react/static/css/main.4001dba8.css",
+    "main.js": "/http//dinesh671.github.io/portfolio-react/static/js/main.250c2df3.js",
+    "static/js/787.a2cb61a6.chunk.js": "/http//dinesh671.github.io/portfolio-react/static/js/787.a2cb61a6.chunk.js",
+    "static/media/dinesh.png": "/http//dinesh671.github.io/portfolio-react/static/media/dinesh.8c152027e5a5b27a8d86.png",
+    "static/media/helvetica-neu.ttf": "/http//dinesh671.github.io/portfolio-react/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/http//dinesh671.github.io/portfolio-react/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/http//dinesh671.github.io/portfolio-react/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "static/media/logo-s.svg": "/http//dinesh671.github.io/portfolio-react/static/media/logo-s.58161238359e4c5b3580752665f47a41.svg",
+    "static/media/figma.svg": "/http//dinesh671.github.io/portfolio-react/static/media/figma.50ff8f6005c0cd60e39fc27b9452b1d5.svg",
+    "index.html": "/http//dinesh671.github.io/portfolio-react/index.html",
+    "main.4001dba8.css.map": "/http//dinesh671.github.io/portfolio-react/static/css/main.4001dba8.css.map",
+    "main.250c2df3.js.map": "/http//dinesh671.github.io/portfolio-react/static/js/main.250c2df3.js.map",
+    "787.a2cb61a6.chunk.js.map": "/http//dinesh671.github.io/portfolio-react/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4001dba8.css",
+    "static/js/main.250c2df3.js"
+  ]
+}
